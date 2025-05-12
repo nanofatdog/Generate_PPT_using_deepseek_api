@@ -3,6 +3,7 @@
 # AI PowerDeck: Your Dynamic Presentation Partner
 
 ## Overview
+This developer is a dyslexic who developed this program in the hopes of helping others. This program is not intended for sale or profit.
 
 This program is designed for creating prototypes of content for presentation work using ai deepseek api. It is only for creating basic content of the work. It is suitable for use as a guideline for creating presentations.
 
@@ -21,6 +22,10 @@ API Used: Deepseek api (https://platform.deepseek.com/)
 
 To get started with the Open-source AI equipped PowerPoint Generator, follow these steps:
 
+0. conda and python 3.10 (recommend)
+```py
+ conda create -n aippt python=3.10 -y 
+```
 1. Clone the repository
 ```py
 git clone https://github.com/nanofatdog/Generate_PPT_using_deepseek_api.git
