@@ -14,7 +14,7 @@ The following technologies and libraries were used in the development of this ch
 
 API Used: Deepseek api (https://platform.deepseek.com/)
 
-![image](https://github.com/Ginga1402/Generate_PPT_using_llama2/assets/130181481/11d585c7-afe7-4e8a-8495-95242f46b238)
+![image](https://github.com/nanofatdog/Generate_PPT_using_deepseek_api/blob/master/imags/20250512_215813.png)
 
 
 ## Getting Started
@@ -36,7 +36,11 @@ streamlit run app.py
 ```
 
 ## Usage
-The application uses a simple command-line interface. Enter your topic, and the application will generate a Power point presentation for you.
+The application uses a simple command-line interface. Enter your topic, and the application will generate a Power point presentation for you. 
+
+```py
+  http://localhost:8501  # your pc IP  port 8501
+```
 
 ## Contributing
 Contributions to this project are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
