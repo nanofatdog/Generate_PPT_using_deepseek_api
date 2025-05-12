@@ -35,7 +35,11 @@ git clone https://github.com/nanofatdog/Generate_PPT_using_deepseek_api.git
 ```py
 pip install -r requirements.txt
 ```
-3. Run the Streamlit application 
+3. open .env
+```
+ DEEPSEEK_API_KEY=your_api_key_here  << input your deepseek api
+```
+4. Run the Streamlit application 
 ```py
 streamlit run app.py
 ```
