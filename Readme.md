@@ -1,22 +1,16 @@
-#### Use llm's to create powerpoint presentations.
+#### Use llm's api deepseek to create powerpoint presentations.
 
 # AI PowerDeck: Your Dynamic Presentation Partner
 
 ## Overview
 
-Harnessing the power of Generative AI (Artificial Intelligence) and LLM (Large Language Models), creating dynamic and engaging PowerPoint presentations has never been easier. By leveraging cutting-edge technology, users can now generate compelling slideshows on a myriad of topics with unprecedented ease and efficiency.
-
-Generative AI refers to a class of algorithms that can autonomously produce content, mimicking human creativity and decision-making processes. These algorithms are trained on vast datasets, enabling them to understand and generate contextually relevant content. LLM, in particular, stands out as a powerful tool in this domain, capable of understanding and generating human-like text with remarkable accuracy.
+This program is designed for creating prototypes of content for presentation work using ai deepseek api. It is only for creating basic content of the work. It is suitable for use as a guideline for creating presentations.
 
 
 ## Tech Stack Used
 The following technologies and libraries were used in the development of this chatbot:
 
 [Python](https://www.python.org/): Programming language used for the implementation.
-
-[Langchain](https://www.langchain.com/): LangChain is a framework designed to simplify the creation of applications using large language models.
-
-[Ctransformers](https://github.com/marella/ctransformers): The C Transformers library provides Python bindings for GGML/GGUF models.
 
 API Used: Deepseek api (https://platform.deepseek.com/)
 
