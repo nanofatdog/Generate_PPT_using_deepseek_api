@@ -18,7 +18,7 @@ The following technologies and libraries were used in the development of this ch
 
 [Ctransformers](https://github.com/marella/ctransformers): The C Transformers library provides Python bindings for GGML/GGUF models.
 
-Model Used: [Llama 2](https://huggingface.co/TheBloke/Llama-2-7B-GGUF) is a family of pre-trained and fine-tuned large language models (LLMs) released by Meta AI in 2023. Released free of charge for research and commercial use, Llama 2 AI models are capable of a variety of natural language processing (NLP) tasks, from text generation to programming code.
+API Used: Deepseek api (https://platform.deepseek.com/)
 
 ![image](https://github.com/Ginga1402/Generate_PPT_using_llama2/assets/130181481/11d585c7-afe7-4e8a-8495-95242f46b238)
 
@@ -29,7 +29,7 @@ To get started with the Open-source AI equipped PowerPoint Generator, follow the
 
 1. Clone the repository
 ```py
-git clone https://github.com/Ginga1402/Generate_PPT_using_llama2
+git clone https://github.com/nanofatdog/Generate_PPT_using_deepseek_api.git
 ```
 2. Install the required dependencies:
 
