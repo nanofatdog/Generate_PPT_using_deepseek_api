@@ -47,4 +47,4 @@ tzdata==2025.2
 urllib3==2.4.0
 watchdog==6.0.0
 XlsxWriter==3.2.3
-openai=1.78.1
+openai==1.78.1
